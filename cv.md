@@ -67,3 +67,33 @@ function spinWords ( string ){
 ```
 ---
 ---
+
+### Work experience:
+
+
+Tasks from codewars I uploaded and will upload to the - https://github.com/jekasemo4kin
+I'm just learning. I watch videos, write notes, read books on this topic.
+
+---
+---
+
+### Education:
+
+- Self-education 
+- JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) 
+- JS/Frontend development course from RS-School (in progress)
+
+---
+---
+
+### Languages:
+
+- English 
+- Russian 
+- Belarusian
+
+At school, I did not try to learn English. While studying at the university, I studied the language and continue to study. What I do for the development of English:
+- I watch movies, videos and series.
+- I installed programs on my phone and computer in English. The language in computer games has also been changed.
+- I installed a translator on my phone. Therefore, if the thought comes to my mind to translate a word whose translation I forgot, then I can always do it.
+- I downloaded the language textbook to my phone. I write a summary with rules and words (dictionary). 
