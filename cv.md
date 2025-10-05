@@ -23,7 +23,7 @@
 
 - Методологии: Agile, Scrum, Kanban.
 
-Технологии:  HTML/CSS/JavaScript/NodeJS.
+- Технологии:  HTML/CSS/JavaScript/NodeJS.
 
 
 ---
