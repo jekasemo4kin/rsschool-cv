@@ -25,6 +25,8 @@
 
 - Технологии:  HTML/CSS/JavaScript/NodeJS.
 
+- Английский: В2
+
 
 ---
 ---
